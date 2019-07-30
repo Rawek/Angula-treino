@@ -1,0 +1,149 @@
+
+
+
+.entrar{
+    background-color: #f87f27;
+    border-radius: 15px;
+    border: orange;
+    width: 3%;
+    height: auto;
+    border: orange;
+    border-radius: 15px;
+    margin-right: 5%;
+}
+/* ids */
+.container{    
+    margin-top: -8px;
+    width: 103%;
+    height: 100px;
+    margin-left: -8px;
+    min-width: 1290px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.836), rgba(0, 0, 0, 0.096));
+    position: relative;
+}
+
+#menu{float: right;
+    margin-top: 35px;
+    margin-right: 5%
+    }
+
+
+#menu a{
+    text-decoration: none; 
+    color:gray; 
+    padding: 10px;
+    margin: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: none;
+    font-stretch: normal;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+
+a:hover{color: #f87f27;
+background-color:#f87f27;
+border-radius: 15px;
+opacity: none; }
+
+.formulario{
+    border-radius: 3%;
+    margin-top: 5%;
+    float: right;
+    width: 45%;
+    height: 65%;
+    background-color:rgba(255, 255, 255, 0.692);
+    margin-left: 5%;
+    padding:5%;
+}
+
+.fundo{
+    height: 999px;
+    width: 100%;
+    background: url(/assets/Imagens/backgroundSVG.svg) no-repeat center center fixed;
+    background-size: cover; /*Css padrão*/
+    -webkit-background-size: cover; /*Css safari e chrome*/
+    -moz-background-size: cover; /*Css firefox*/
+    -ms-background-size: cover; /*Css IE não use mer#^@%#*/
+    -o-background-size: cover; /*Css Opera*/
+    }
+
+.formulario label{color: #004f9e; font-family: 'Segoe UI'; font-weight: bold; min-width: 100px; min-height: 19px; font-weight: bold; padding: 9%; }
+input{
+    margin-top: 5%;
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+button{
+    margin-top: 15%;
+    width: 50%;
+    border-radius: 10%;
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    padding: 3%;
+    margin-left: 22%}
+
+.alerta1{
+    background-color: #793AED;
+    width: 35%;
+    position: absolute;
+    margin-top: 250px;
+    }
+
+    .alerta2{
+        background-color: #004F9E;
+        width: 40%;
+        position: absolute;
+        margin-top: 301px;    margin-left: 20px;
+        text-align: center
+    
+    }
+    
+    .alerta3{
+        background-color: #793AED;
+        width: 35%;
+        position: absolute;
+        margin-left: -6px;
+        margin-top: 353px;
+        text-align: center
+    }
+    h2{
+        color: white;
+        margin-right: 5px;
+        font-size: 100%;
+        font-weight: bold
+    }
+
+    .imagem{
+        position: absolute
+    }
+
+    .imagem img{
+        width: 55%;
+        margin-top:88%;
+        margin-left: 15%
+    }
+
+    .img{
+
+        position: absolute;
+        margin-left: 44%
+    }
+#entrar{
+    background-color: #f87f27;
+    border-radius: 15%
+}

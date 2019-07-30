@@ -1,0 +1,107 @@
+
+
+
+.sair{
+    background-color: #f87f27;
+    border-radius: 15px;
+    border: orange;
+    width: 3%;
+    height: auto;
+    border: orange;
+    border-radius: 15px;
+    margin-right: 5%;
+}
+/* ids */
+.container{    
+    margin-top: -8px;
+    width: 103%;
+    height: 100px;
+    margin-left: -8px;
+    min-width: 1290px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.836), rgba(0, 0, 0, 0.096));
+    position: relative;
+}
+
+#menu{float: right;
+    margin-top: 35px;
+    margin-right: 5%
+    }
+
+
+#menu a{
+    text-decoration: none; 
+    color:gray; 
+    padding: 10px;
+    margin: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: none;
+    font-stretch: normal;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+
+a:hover{color: #f87f27;
+background-color:#f87f27;
+border-radius: 15px;
+opacity: none; }
+
+
+.fundo{
+    height: 999px;
+    width: 100%;
+    background: url(/assets/Imagens/backgroundSVG.svg) no-repeat center center fixed;
+    background-size: cover; /*Css padrão*/
+    -webkit-background-size: cover; /*Css safari e chrome*/
+    -moz-background-size: cover; /*Css firefox*/
+    -ms-background-size: cover; /*Css IE não use mer#^@%#*/
+    -o-background-size: cover; /*Css Opera*/
+    }
+
+    
+#sair{
+    background-color: #f87f27;
+    border-radius: 15%
+}
+
+.fundo2{
+    background-color: rgb(255, 255, 255);
+    height: 999px;
+    width: 100%;
+}
+
+.imagem1 img{
+    width: 200px;
+    margin: 8%;
+    display: block;
+    
+}
+
+.imagem1 {
+    width: 250px;
+    position: relative;
+    background-color: #ced4da;
+}
+.fundo2 img{
+    position: relative;
+    margin-top: 5%
+    }
+
+.produtos{
+    padding-top: 15%;
+}
+
+.preco{
+    color: white
+}
+
+.carrinho{
+    width: 30px;
+    margin-left: 75%;
+    padding-bottom: 35%
+    }
+.preco img{
+    width: 30px
+
+}
